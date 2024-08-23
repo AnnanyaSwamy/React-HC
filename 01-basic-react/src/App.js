@@ -1,6 +1,8 @@
+import Example from "./Example.js";
+
 function App() {
   return (
-    <h1>Hello World</h1>
+    <Example/>
   );
 }
 
