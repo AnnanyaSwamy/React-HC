@@ -5,6 +5,9 @@ function Button(props) {
     document
       .getElementById("background")
       .setAttribute("style", `background-color: ${props.code}`);
+    document
+      .getElementById("holder")
+      .setAttribute(`style", "background-color: ${props.code}`);
   }
 
   return (
