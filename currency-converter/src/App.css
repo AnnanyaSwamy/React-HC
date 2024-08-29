@@ -1,0 +1,4 @@
+/* src/App.css */
+.bg-gradient-radial {
+  background: radial-gradient(circle, var(--tw-gradient-stops));
+}
